@@ -66,6 +66,61 @@ body {
     letter-spacing: 2px;
 }
 
+main {
+    margin: 50px auto;
+    width: 1200px;
+}
+
+main h2 {
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.top {
+    background-image: url('../img/coffee-ge69764760_1920.jpg');
+}
+
+.middle {
+    background-image: url('../img/mobile-phone-g882a690c1_1920.jpg');
+}
+
+.bottom {
+    background-image: url('../img/office-g93066a482_1920.jpg');
+}
+
+.about-us-text {
+position: absolute;
+bottom: 20px;
+padding: 20px 40px;
+text-align: center;
+color: #fff;
+}
+
+.about-us-bg {
+    position: absolute;
+    bottom: 0;
+    height: 45%;
+    width: 100%;
+    background-color: rgba(53, 54, 68, 0.8);
+}
+
+.about-us-box {
+    margin: 40px 0;
+    position: relative;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+.about-us-box h3 {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
 footer {
     height: 80px;
     line-height: 80px;
