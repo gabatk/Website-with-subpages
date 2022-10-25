@@ -144,3 +144,30 @@ footer {
 .icon-box a:hover {
     color: rgb(77, 118, 241);
 }
+
+.services-list{
+    margin: 0 auto;
+    width: 200px;
+}
+
+.price-table{
+margin: 0 auto;
+padding: 30px;
+text-align: center;
+}
+
+.price-table td {
+    padding: 10px 30px;
+}
+.price-table th {
+    text-transform: uppercase;
+}
+
+.contact-info {
+    text-align: center;
+    font-size: 25px;
+}
+
+.contact-info .fa-solid {
+margin-right: 10px;
+}
